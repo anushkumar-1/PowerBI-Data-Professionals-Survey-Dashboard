@@ -13,6 +13,7 @@ The objective of this project is to analyze survey responses from data professio
 4. What do people value most in a new job?
 5. What is the age and gender distribution?
 6. How does education level vary by country?
+7. Dashboard Interaction <a href="https://github.com/anushkumar-1/PowerBI-Data-Professionals-Survey-Dashboard/blob/main/data%20professional.pbit">View Dashboard</a>
 
 ## 🛠️ Process Overview
 
@@ -22,3 +23,8 @@ The objective of this project is to analyze survey responses from data professio
 - 🔄 Created calculated columns and measures (e.g., average happiness score)
 - 🧩 Packaged the dashboard as `.pbit` for portability
 
+## 🖼️ Dashboard Preview
+<img width="876" height="492" alt="Screenshot-Dashboard" src="https://github.com/user-attachments/assets/1ad2ee74-6d05-40f6-85fb-1d64b10c84c0" />
+
+## ✅ Conclusion
+This Power BI project provided meaningful insights into the professional lives of data practitioners across the globe. By analyzing their responses, we identified key patterns around job satisfaction, learning paths, challenges entering the field, and career preferences. The dashboard helps uncover what matters most to data professionals—from remote work and salary expectations to learning resources and upward mobility. This analysis can serve as a valuable resource for aspiring data professionals, employers, and educators looking to understand the evolving landscape of the data industry
